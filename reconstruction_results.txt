@@ -1,0 +1,32 @@
+Date Psychology frustrated-mating review — summary-statistic reconstruction
+SOURCE: Table 1 of Alexander (2024); coefficients/CIs transcribed as published.
+RAW DATA: Not available. Rounded printed r and CI; no pairwise n provided.
+
+STATISTICAL RECONSTRUCTION (standardized OLS; FM, RT, PT simultaneous)
+AP1: beta(FM)=-0.015142; beta(RT)=-0.503483; beta(PT)=+0.262271; R2=0.317812; delta_R2(FM | RT,PT)=0.000212
+  Algebraic decomposition of r(FM,AP1)=+0.140: FM=-0.015142 + RT=+0.115801 + PT=+0.039341
+AP2: beta(FM)=-0.014168; beta(RT)=-0.423259; beta(PT)=+0.312125; R2=0.272686; delta_R2(FM | RT,PT)=0.000186
+  Algebraic decomposition of r(FM,AP2)=+0.130: FM=-0.014168 + RT=+0.097350 + PT=+0.046819
+PS: beta(FM)=+0.030283; beta(RT)=+0.506965; beta(PT)=-0.224543; R2=0.299248; delta_R2(FM | RT,PT)=0.000848
+  Algebraic decomposition of r(FM,PS)=-0.120: FM=+0.030283 + RT=-0.116602 + PT=-0.033681
+
+SAMPLE SIZE SENSITIVITY (Fisher-z approximation; interval bounds rounded)
+AP1: published r=+0.14; CI=[+0.00,+0.27]; n implied by CI width ~ 203.5
+AP2: published r=+0.13; CI=[+0.00,+0.26]; n implied by CI width ~ 220.0
+PS: published r=-0.12; CI=[-0.25,+0.01]; n implied by CI width ~ 221.1
+These numbers are approximate: CI bounds are rounded, some may include boundary rounding,
+and different estimators/missing-data treatment could yield different CIs.
+The alignment with the male subsample (~213 of 284) is a hypothesis, not established fact.
+
+APPROXIMATE POWER FOR TRUE r=0.14 (two-sided alpha=.05, Fisher-z normal approximation)
+n=213: power ~ 0.533
+n=284: power ~ 0.656
+
+EXPERIMENTAL FIGURE 4
+Gul et al. (2026) report d=0.08 (Study 1 men) and d=0.27 (Study 2 all).
+Study 2 subgroup ds are 0.34 (men) and 0.18 (women).
+The Study 2 sex-by-condition interaction is non-significant (p=.349).
+Subgroup statistical significance differences do not prove a sex difference.
+
+CAUSAL STATUS: Regressions, correlation decomposition and Figure 3 do not identify mediation,
+reverse causality, or evolutionary adaptiveness. They are descriptive reconstructions.

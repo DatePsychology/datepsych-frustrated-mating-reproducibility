@@ -1,0 +1,5 @@
+study,group,n,cohens_d,p_value,comparison,source_doi,notes
+Study 1,Men,388,0.08,0.452,Randomized jealousy versus control,10.1080/02699931.2026.2676723,Study 1 treatment contrast was not significant
+Study 2,All participants,551,0.27,0.002,Randomized jealousy versus control,10.1080/02699931.2026.2676723,Primary main effect of condition; n includes 287 men and 264 women
+Study 2,Men,287,0.34,0.003,Randomized jealousy versus control within men,10.1080/02699931.2026.2676723,Sex subgroup; significance alone does not prove sex differences
+Study 2,Women,264,0.18,0.146,Randomized jealousy versus control within women,10.1080/02699931.2026.2676723,Sex subgroup; the sex-by-condition interaction was not significant (p=0.349)
