@@ -56,6 +56,3 @@ The code's *r*=.14 power values are approximations based on Fisher's transformat
 
 No copyright-protected article PDFs, scraped full articles, or participant-level records are redistributed. The dataset here consists of a small transcription of published numerical estimates. The MIT license covers the original code and accompanying documentation; it does not assert ownership of third-party empirical results.
 
-## Article link
-
-Once the repository is published, the article can link to this README with: **[Statistical reconstructions, figure code, and source inputs (GitHub)](https://github.com/USERNAME/datepsych-frustrated-mating-reproducibility)**. Replace `USERNAME` with the correct account or organization; do not publish that placeholder link as though it were live.
